@@ -1,0 +1,15 @@
+<h3>AVISO:	10900101</h3>
+
+<b>DECOS AFECTADOS</b>:	tv 
+
+<br><br><b>SINTOMA:	</b>aviso de prueba
+	
+<br><br><b>PROCESO DE SOPORTE:</b><br>
+    1.primero
+<br>2.segundo
+<br>3.tercero
+<br>4.cuarto. Dejar en observacion la nota <font color="#ff7400">aviso 10900101</font><br><br>
+
+<b>ESCENARIOS DE MARCACION:</b><br>
+1. Primera vez que el cliente se comunica por este aviso <font color="#0000ff">SOP PLT</font><br>
+2. Cliente se ha comunicado en mas de una ocasion por este aviso <font color="#0000ff"> DIS AVF</font>
