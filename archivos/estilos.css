@@ -1,7 +1,8 @@
 body{
 	color:#ff0000;
-	font-size:1.5em;
+	font-size:1.2em;
 	font-weight:bold;
+	font-family:Palatino Linotype;	
 	background-color:#f8f8f8;
 	text-align:left;
 }
@@ -17,3 +18,13 @@ td {
 input{
 	font-size:1em;
 }
+
+header{
+	text-align:center;
+	font-size:1.3em;
+	color:#f8f8f8;
+	background-color:#aa0000;
+	border-color:#ffffff;
+	border-style:solid;
+	border-width:0.2em;
+]
