@@ -31,7 +31,7 @@
 		$soporte4="\t\t<br>4. ".$soporte4;
 		$soporte=$soporte.$soporte4;
 	}
-	$notas=". Dejar en observacion la nota <font color=\"#ff7400\">".$notas."</font><br><br>";
+	$notas=". Dejar en observacion la nota <font color=\"#ff0700\">".$notas."</font><br><br>";
 	$guion=$aviso.$plataforma.$sintoma.$soporte.$notas.$marcacion;
 
 	$fp=fopen("archivos/guion.txt", "w");
